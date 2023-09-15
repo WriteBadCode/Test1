@@ -6,3 +6,7 @@ class Test:
         return self.test_scores
 
 
+lis = [1, 2, 3, 4]
+test = Test(lis)
+
+
