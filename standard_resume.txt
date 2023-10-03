@@ -1,0 +1,34 @@
+Ryan Tjia
+365 NE 165th Way
+Ridgefield Washington 98642
+ryantj2005@gmail.com
+365-309-9879
+
+Intro:
+Dedicated and motivated high school graduate with a passion for Computer Science and programming languages, seeking opportunities to gain practical experience and contribute to projects while pursuing a Computer Science degree.
+
+Education:
+Ridgefield High School, Ridgefield, Washington state
+Graduated at June
+
+Relevant Courses:
+- CPT_S 121: Program Design and Development (In Progress)
+- CPTS 101: Intro to Elec Eng & Cpt Sci (In Progress)
+
+Skills:
+Programming Languages: Python, C, C#, Java
+Web Development: HTML, CSS, JavaScript
+Software Tools: Visual studio, pycharm, jetbrain
+Problem Solving: Have a bit of experience from leet code and hacker rank, personal projects
+
+Projects:
+A bit of webdevelopment with html, css and javascript / Hositng local server using python
+A bit of game development with unity using c# and some basic platformer using pygame
+Discord bot dev:
+	Webscraping using python to get live data
+	Interact with google sheet as data with using python
+	Creating mini text based games like connect 4, battleship, etc
+
+
+Extracurricular Activities:
+Robotoics Club

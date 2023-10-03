@@ -1,12 +1,5 @@
-class Test:
-    def __init__(self, test_score: list):
-        self.test_scores = test_score
+var = 5
 
-    def get_score(self):
-        return self.test_scores
+var ^= 3
 
-
-lis = [1, 2, 3, 4]
-test = Test(lis)
-
-
+print(var)
